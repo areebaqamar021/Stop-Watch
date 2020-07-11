@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: darkkhaki;
+}
+h2{
+    height: 60px;
+    font-size: 50px;
+    background-color: black;
+    color: cornsilk;
+}
+.heading{
+    font-style: italic;
+    font-size: 50px;
+}
+.btn{
+    background-color: gray;
+    color: #fff;
+}
+.screen{
+    border: 2px solid 	#E6E6FA;
+    width: 370px;
+    margin: 0 auto;
+}
